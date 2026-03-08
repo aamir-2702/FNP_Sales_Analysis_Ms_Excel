@@ -1,6 +1,6 @@
 # FNP_Sales_Analysis_Ms_Excel
 
-##📌 Project Overview
+## 📌 Project Overview
 
 The **FNP Sales Analysis Dashboard** is a data analytics project designed to analyze sales performance and identify key business insights from the **Ferns N Petals (FNP)** dataset.
 
@@ -12,7 +12,7 @@ The objective of this project is to transform raw sales data into **actionable i
 ---
 
 
-##🎯 Project Objectives
+## 🎯 Project Objectives
 
 - Analyze overall **sales performance**
 
@@ -30,7 +30,7 @@ The objective of this project is to transform raw sales data into **actionable i
 ---
 
 
-##📈 Key Performance Indicators (KPIs)
+## 📈 Key Performance Indicators (KPIs)
 | **Metric** |	**Value** |
 |-----------|-----------|
 | Total Orders |	1000 |
