@@ -15,15 +15,10 @@ The objective of this project is to transform raw sales data into **actionable i
 ## 🎯 Project Objectives
 
 - Analyze overall **sales performance**
-
 - Identify **top-performing products and categories**
-
 - Understand **customer purchasing behavior**
-
 - Track **seasonal and occasion-based sales trends**
-
 - Evaluate **delivery performance**
-
 - Identify **top cities generating orders**
 
 
@@ -49,29 +44,23 @@ These KPIs provide a quick overview of the company's sales performance and custo
 Sales were analyzed across major gifting occasions such as **Anniversary, Birthday, Diwali, Holi, Raksha Bandhan, and Valentine’s Day**.
 The analysis reveals that **Anniversary and Raksha Bandhan generate higher revenue**, indicating strong seasonal demand.
 
----
+--
 
 ## 2️⃣ Revenue by Product Category
 
 The dashboard shows revenue distribution across categories like:
 
 - Cake
-
 - Colors
-
 - Mugs
-
 - Plants
-
 - Raksha Bandhan
-
 - Soft Toys
-
 - Sweets
 
 Among these, **Colors and Soft Toys generate the highest revenue**, making them key contributors to overall sales
 
----
+--
 
 3️⃣ Revenue by Order Time
 
@@ -79,7 +68,7 @@ The hourly revenue analysis highlights peak ordering hours during the evening pe
 
 This insight can help businesses optimize customer support and delivery operations.
 
----
+--
 
 4️⃣ Monthly Revenue Trends
 
