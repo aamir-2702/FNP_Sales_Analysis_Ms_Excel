@@ -137,3 +137,21 @@ Through this project, I gained hands-on experience in:
 - Extracting business insights from sales data
 
 Understanding customer behavior and market trends
+
+---
+
+## ⭐ Support
+
+If you found this project useful, please consider giving the repository a **star ⭐**.
+
+
+---
+
+## 📬 Contact
+
+**Md Aamir Raza**
+
+email: aamirzain2702@gmail.com
+
+🔗 LinkedIn  
+https://www.linkedin.com/in/rushikesh-ingole-b02052377
