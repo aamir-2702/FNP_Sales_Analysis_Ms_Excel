@@ -104,10 +104,6 @@ Understanding geographic demand helps businesses improve **regional marketing st
 
 ## 🛠 Tools & Technologies Used
 
-- **Power BI** – Data visualization and dashboard creation
-
-- **SQL / MySQL** – Data querying and analysis
-
 - **Excel / CSV Dataset** – Data storage and preprocessing
 
 ---
@@ -122,6 +118,9 @@ The dataset contains information related to:
 - Occasion
 - City
 - Order Revenue
+- Product
+- Customer
+- Order
 
 This data was used to build meaningful visualizations and business insights
 
@@ -132,7 +131,7 @@ This data was used to build meaningful visualizations and business insights
 Through this project, I gained hands-on experience in:
 
 - Data cleaning and transformation
-- Data visualization using Power BI
+- Data visualization using Ms Excel
 - Creating interactive dashboards
 - Extracting business insights from sales data
 
