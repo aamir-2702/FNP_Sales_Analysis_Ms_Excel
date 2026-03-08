@@ -49,7 +49,7 @@ These KPIs provide a quick overview of the company's sales performance and custo
 Sales were analyzed across major gifting occasions such as **Anniversary, Birthday, Diwali, Holi, Raksha Bandhan, and Valentine’s Day**.
 The analysis reveals that **Anniversary and Raksha Bandhan generate higher revenue**, indicating strong seasonal demand.
 
---
+---
 
 ## 2️⃣ Revenue by Product Category
 
@@ -70,3 +70,19 @@ The dashboard shows revenue distribution across categories like:
 - Sweets
 
 Among these, **Colors and Soft Toys generate the highest revenue**, making them key contributors to overall sales
+
+---
+
+3️⃣ Revenue by Order Time
+
+The hourly revenue analysis highlights peak ordering hours during the evening period, indicating that customers prefer placing orders later in the day.
+
+This insight can help businesses optimize customer support and delivery operations.
+
+---
+
+4️⃣ Monthly Revenue Trends
+
+The monthly revenue trend shows significant peaks during certain months, likely due to major festivals and occasions.
+
+This helps businesses prepare for seasonal demand fluctuations and promotional campaigns.
