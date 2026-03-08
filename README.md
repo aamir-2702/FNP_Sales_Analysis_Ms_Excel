@@ -26,7 +26,7 @@ The objective of this project is to transform raw sales data into **actionable i
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot]()
+![Dashboard Screenshot](https://github.com/aamir-2702/FNP_Sales_Analysis_Ms_Excel/blob/main/fnp_sales_dashboard.png)
 
 ---
 
