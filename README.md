@@ -44,7 +44,7 @@ These KPIs provide a quick overview of the company's sales performance and custo
 Sales were analyzed across major gifting occasions such as **Anniversary, Birthday, Diwali, Holi, Raksha Bandhan, and Valentine’s Day**.
 The analysis reveals that **Anniversary and Raksha Bandhan generate higher revenue**, indicating strong seasonal demand.
 
---
+---
 
 ## 2️⃣ Revenue by Product Category
 
